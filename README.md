@@ -21,6 +21,11 @@ United States
 Germany
 India
 South Korea
-Tools Used
+# Tools Used
 Tableau: For creating visualizations, charts, and graphs based on the data.
 SQL: Used for querying and managing the data, including handling missing data and generating insights.
+
+# Key Insights
+China remains the leader in global manufacturing, with the highest value added in 2023.
+The United States and Germany are other significant contributors to global manufacturing.
+The manufacturing value added has been steadily increasing for the top countries over the years, particularly in China, which saw rapid growth starting in the early 2000s.
